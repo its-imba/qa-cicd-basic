@@ -8,4 +8,4 @@ app = Flask(__name__)
 def home():
     return 'Static web app with Flask'
 
-app.run(host='0.0.0.0', port=80, debug=True)
+app.run(host='20.68.23.128', port=9000, debug=True)
